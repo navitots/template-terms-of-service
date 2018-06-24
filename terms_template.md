@@ -89,7 +89,7 @@ The validity of these Terms and the rights, obligations, and relations of the pa
 
 ## Jurisdiction
 
-You expressly agree that exclusive jurisdiction for any dispute with the Service or relating to your use of it, resides in the courts of the **State of California** and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of the *State of California* . ** located in **Los Angeles County** in connection with any such dispute including any claim involving Service. You further agree that you and Service will not commence against the other a class action, class arbitration or other representative action or proceeding.
+You expressly agree that exclusive jurisdiction for any dispute with the Service or relating to your use of it, resides in the courts of the **State of California** and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of the *State of California* located in **Los Angeles County** in connection with any such dispute including any claim involving Service. You further agree that you and Service will not commence against the other a class action, class arbitration or other representative action or proceeding.
 
 ## Termination
 
